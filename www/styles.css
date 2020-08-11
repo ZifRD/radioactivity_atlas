@@ -1,0 +1,23 @@
+
+h4{
+  font-size:120%;
+  font-weight: bold;
+  text-align: center;
+}
+
+#ANA_SIDEPANELBLOCKST, #ANA_SIDEPANELBLOCKNOTST, #ANA_SIDEPANELBLOCKEXCEL, #ANA_SIDEPANELBLOCKPOLY {
+  border-top-color: #1F6E36;
+  border-bottom-color: #1F6E36;
+  border-style: solid; 
+  border-radius: 5px; 
+  border-width: thin; 
+  border-color: black; 
+  box-shadow: 5px 5px 2px #808080;
+  border-style: groove; 
+  padding: 3px 10px 3px 10px;
+  border-spacing: 0px 0px;
+}
+
+#HINT{
+	background-color: #D3D3D3;
+}
