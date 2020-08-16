@@ -7,3 +7,5 @@
 4. Создание веб-ГИС (R, shiny, leaflet, mapedit)
 
 См. описание в файле [/www/manual.pdf](https://github.com/ZifRD/radioactivity_atlas/blob/master/www/manual.pdf).
+
+Зарегистрированные РИД: (1) [база данных](https://drive.google.com/file/d/19Zf67zhrCnt0DFoUo8FoLKG2iquTMtLy/view?usp=sharing), (2) [программа для ЭВМ](https://drive.google.com/file/d/13eluMoV_L-cCXVSdVKq021JEpX4yh3oq/view?usp=sharing).
